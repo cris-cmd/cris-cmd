@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://dev.to/criscmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="criscmd" height="30" width="40" /></a>
 <a href="https://twitter.com/taotakahashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taotakahashi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tao christopher takahashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tao christopher takahashi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tao-christopher-takahashi-56071b1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tao christopher takahashi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/interpidnight051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="interpidnight051" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cris-cmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cris-cmd" height="30" width="40" /></a>
 </p>
