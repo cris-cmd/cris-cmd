@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cris-cmd&show_icons=true&locale=en&layout=compact" alt="cris-cmd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cris-cmd&show_icons=true&locale=en" alt="cris-cmd" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cris-cmd&" alt="cris-cmd" /></p>
