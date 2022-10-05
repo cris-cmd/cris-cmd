@@ -2,6 +2,7 @@
 <h3 align="center">Japanese/American software engineer</h3>
 
 - 🔭 I’m currently working at **<a href="https://www.wantedly.com/companies/sapeet" target="_blank">Sapeet Inc.</a>**
+  - Previous companies I worked for
 
 - 📫 How to reach me **taoctakahashi@gmail.com**
 
