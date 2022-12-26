@@ -1,4 +1,4 @@
-<h1 align="center">Sup😎,I'm cris-cmd</h1>
+<h1 align="center">Sup😎,I'm cris-cmd🌈</h1>
 <h3 align="center">Japanese/American software engineer</h3>
 
 - 🔭 I’m currently working at **<a href="https://www.wantedly.com/companies/sapeet" target="_blank">Sapeet Inc.</a>**
