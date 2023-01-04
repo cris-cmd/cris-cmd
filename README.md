@@ -6,7 +6,7 @@
 - 📫 How to reach me **taoctakahashi@gmail.com**
 
 ## Thank you for coming!
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:cris-cmd"></a>
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:cris-cmd?theme=rule34"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
