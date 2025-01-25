@@ -1,7 +1,7 @@
 <h1 align="center">Sup😎,I'm cris-cmd🌈</h1>
 <h3 align="center">Japanese/American software engineer</h3>
 
-- 🔭 I’m currently working at **<a href="https://recruit.optimind.tech/" target="_blank">Optimind Inc.</a>**
+- 🔭 I’m currently working at **<a href="https://verne-tech.com/" target="_blank">Verne Technologies Inc.</a>**
 
 - 📫 How to reach me **taoctakahashi@gmail.com**
 
